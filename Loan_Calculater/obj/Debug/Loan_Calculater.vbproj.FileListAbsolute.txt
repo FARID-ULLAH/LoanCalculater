@@ -1,0 +1,12 @@
+C:\Users\Door\AppData\Local\Temporary Projects\Loan_Calculater\bin\Debug\Loan_Calculater.exe.config
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\bin\Debug\Loan_Calculater.exe.config
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\obj\Debug\Loan_Calculater.vbprojResolveAssemblyReference.cache
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\obj\Debug\Loan_Calculater.Form1.resources
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\obj\Debug\Loan_Calculater.Resources.resources
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\obj\Debug\Loan_Calculater.vbproj.GenerateResource.Cache
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\bin\Debug\Loan_Calculater.exe
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\bin\Debug\Loan_Calculater.pdb
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\bin\Debug\Loan_Calculater.xml
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\obj\Debug\Loan_Calculater.exe
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\obj\Debug\Loan_Calculater.xml
+F:\VB.net Prac\Loan_Calculater\Loan_Calculater\obj\Debug\Loan_Calculater.pdb
